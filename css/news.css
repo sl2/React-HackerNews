@@ -1,0 +1,40 @@
+body { font-family:Verdana; font-size:10pt; color:#828282; }
+
+a:link    { color:#000000; text-decoration:none; }
+a:visited { color:#828282; text-decoration:none; }
+
+#navi    { color:#000000}
+.logo    { font-family:Verdana; font-size: 11pt; }
+.title   { font-family:Verdana; font-size: 10pt; color:#828282; margin-bottom:3px; }
+.subtext { font-family:Verdana; font-size:  8pt; color:#828282; margin-bottom:5px; }
+.subtext a:link, .subtext a:visited { color:#828282; }
+.subtext a:hover { text-decoration:underline; }
+
+#box {
+    width:85%;
+    margin:0 auto;
+    background-color:#f6f6ef;
+}
+
+#navi {
+    margin:0 auto;
+    padding:2px;
+    background-color:#ff6600;
+}
+
+.logo {
+    font-weight: bold;
+    margin:0px auto;
+    padding:0px;
+    padding-left:15px;
+}
+
+#footer {
+    border-top:2px #ff6600 solid;
+    text-align:center;
+    margin:0 auto;
+}
+
+#footer_text {
+    margin:5px;
+}
