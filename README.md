@@ -11,7 +11,7 @@ It's a simple solution to the communication between non-related React's componen
 
 ### PubSub communication
 
-![PubSub with React](pubsub.png)
+![PubSub with React](./pubsub.png)
 
 
 ### Facebook way
